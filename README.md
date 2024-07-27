@@ -25,7 +25,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone [<repository_url>](https://github.com/pavannayakanti/scaler_portfolio.git)
+   git clone https://github.com/pavannayakanti/scaler_portfolio.git
    cd sales_forecasting
 
 2. **Create a virtual environment:**
