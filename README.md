@@ -17,8 +17,10 @@ sales_forecasting/
 |-- README.md
 
 
+
 ## Setup
 
-1. Install the required packages:
-```sh
-pip install -r requirements.txt
+1. **Clone the repository:**
+   ```sh
+   git clone <repository_url>
+   cd sales_forecasting
