@@ -1,4 +1,8 @@
 pandas
-numpy
 scikit-learn
+xgboost
+keras
 matplotlib
+seaborn
+flask
+joblib
