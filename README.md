@@ -1,5 +1,4 @@
 # Sales Forecasting Project
-
 ## Project Structure
 sales_forecasting/
 |-- data/
@@ -15,8 +14,11 @@ sales_forecasting/
 |-- main.py
 |-- requirements.txt
 |-- README.md
-
-
+└── models/
+    └── baseline_model.pkl
+    └── rf_model.pkl
+    └── xgb_model.pkl
+    └── preprocessor.pkl
 
 ## Setup
 
