@@ -1,24 +1,25 @@
 # Sales Forecasting Project
 ## Project Structure
-sales_forecasting/
-|-- data/
-| |-- TRAIN.csv
-|-- notebooks/
-| |-- EDA.ipynb
-|-- src/
-| |-- init.py
-| |-- data_processing.py
-| |-- feature_engineering.py
-| |-- model_training.py
-| |-- model_evaluation.py
-|-- main.py
-|-- requirements.txt
-|-- README.md
-└── models/
-    └── baseline_model.pkl
-    └── rf_model.pkl
-    └── xgb_model.pkl
-    └── preprocessor.pkl
+- sales_forecasting/
+  - data/
+    - TRAIN.csv
+  - notebooks/
+    - EDA.ipynb
+  - src/
+    - __init__.py
+    - data_processing.py
+    - feature_engineering.py
+    - model_training.py
+    - model_evaluation.py
+  - main.py
+  - requirements.txt
+  - README.md
+  - models/
+    - baseline_model.pkl
+    - rf_model.pkl
+    - xgb_model.pkl
+    - preprocessor.pkl
+
 
 ## Setup
 
