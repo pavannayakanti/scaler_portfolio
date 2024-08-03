@@ -66,6 +66,11 @@
    ```
 + This response will contain the predicted sales value based on the input features.
 
+## Technical Blog
+
+For a detailed analysis and insights from the project, see the [Technical Blog](TechnicalBlog.md).
+
+
 ## Troubleshooting
 **TBD**
 
